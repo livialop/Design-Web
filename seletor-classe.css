@@ -1,0 +1,13 @@
+h1 {
+    color: olive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*seletor de classe*/
+h2.subsecao {
+    color: rgb(182, 70, 26);
+}
+
+.subsecao.sublinhado {
+    text-decoration: underline;
+}
